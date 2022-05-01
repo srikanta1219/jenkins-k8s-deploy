@@ -1,8 +1,8 @@
 pipeline {
 
   environment {
-    registry = "https://registry.hub.docker.com"
-    dockerImage = "jenkinsk8s"
+    registry = "srikanta1219/jenkinsk8s"
+    dockerImage = ""
   }
 
   agent any
