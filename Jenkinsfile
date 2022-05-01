@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    registry = "srikanta1219/"
+    registry = "srikanta1219"
     dockerImage = "jenkinsk8s"
   }
 
