@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    registry = ""
+    registry = "https://registry.hub.docker.com"
     dockerImage = "jenkinsk8s"
   }
 
